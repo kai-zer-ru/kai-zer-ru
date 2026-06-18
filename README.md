@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kai-zer-ru&show_icons=true&theme=dark)
 <!--
 **kai-zer-ru/kai-zer-ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
